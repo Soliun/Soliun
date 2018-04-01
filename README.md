@@ -1,2 +1,7 @@
 # hello-world
-my first repository
+
+Hi, People!
+
+My name is Josias, I'm studying python from beginning.
+
+Peace!

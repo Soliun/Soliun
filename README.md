@@ -2,6 +2,6 @@
 
 Hi, People!
 
-My name is Josias, I'm studying python from beginning.
+My name is Josias, I'm studying computer's science.
 
 Peace!

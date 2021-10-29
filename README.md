@@ -1,4 +1,4 @@
-## E ai! Sou Josias Silva, conhecido como Soliun. Criador de conteúdo sobre games e tecnologia, estudante de ciência da computaço, streamer nas horas vagas.
+## E ai! Sou Josias Silva, conhecido como Soliun. Criador de conteúdo sobre games e tecnologia, estudante de ciência da computaçao, streamer nas horas vagas.
 <div align="center">
   <a href="https://github.com/soliun">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=soliun&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
